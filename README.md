@@ -14,7 +14,7 @@
 [13]: https://github.com/ponandrew100/y_praktikum/blob/master/13_cv/13_cv.ipynb  
 [14]: https://github.com/ponandrew100/y_praktikum/blob/master/final_project/final_project.ipynb  
 [15]: https://github.com/ponandrew100/y_praktikum/tree/master/kaggle-imet2020  
-[17]: https://github.com/ponandrew100/y_praktikum/blob/master/for-jigsaw2020/for-jigsaw2020.ipynb    
+[17]: https://github.com/ponandrew100/y_praktikum/blob/master/kaggle-jigsaw2020/for-jigsaw2020.ipynb    
 
 [03_research data analysis.ipynb][3]  
 Проект по исследовательскому анализу данных.  
@@ -77,7 +77,7 @@
 Результат участия в данном соревновании: 14-ое место.  
 Применялось: ResNet50, ResNet101.
 
-Для участия в `Jigsaw Multilingual Toxic Comment Classification` на `KAGGLE.COM` были реализованы:  
-[for-jigsaw2020.ipynb][17]  
+[kaggle-jigsaw2020.ipynb][17]  
+Проект для участия в соревновании `Jigsaw Multilingual Toxic Comment Classification` на `KAGGLE.COM`.  
 Результат участия в данном соревновании: 669-ое место.  
 Применялось: BERT, RoBERTa, Distilbert.
