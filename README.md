@@ -13,8 +13,7 @@
 [12]: https://github.com/ponandrew100/y_praktikum/blob/master/12_data%20extraction/12_data%20extraction.ipynb  
 [13]: https://github.com/ponandrew100/y_praktikum/blob/master/13_cv/13_cv.ipynb  
 [14]: https://github.com/ponandrew100/y_praktikum/blob/master/final_project/final_project.ipynb  
-[15]: https://github.com/ponandrew100/y_praktikum/blob/master/for-imet2020-train/for-imet2020-train.ipynb  
-[16]: https://github.com/ponandrew100/y_praktikum/blob/master/for-imet2020-inference/for-imet2020-inference.ipynb  
+[15]: https://github.com/ponandrew100/y_praktikum/tree/master/kaggle-imet2020  
 [17]: https://github.com/ponandrew100/y_praktikum/blob/master/for-jigsaw2020/for-jigsaw2020.ipynb    
 
 [03_research data analysis.ipynb][3]  
@@ -73,9 +72,8 @@
 Цель: вовремя предлагать клиентам, которые могут уйти, промокоды и специальные условия.  
 Применялось: Pipeline, GridSearchCV, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, BaggingClassifier
 
-Для участия в `iMet Collection 2020 - FGVC7` на `KAGGLE.COM` были реализованы:  
-[for-imet2020-train.ipynb][15]  
-[for-imet2020-inference.ipynb][16]  
+[kaggle-imet2020][15]  
+Проект для участия в соревновании `iMet Collection 2020 - FGVC7` на `KAGGLE.COM`  
 Результат участия в данном соревновании: 14-ое место.  
 Применялось: ResNet50, ResNet101.
 
