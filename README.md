@@ -77,7 +77,7 @@
 Результат участия в данном соревновании: 14-ое место.  
 Применялось: ResNet50, ResNet101.
 
-[kaggle-jigsaw2020.ipynb][17]  
+[kaggle-jigsaw2020][17]  
 Проект для участия в соревновании `Jigsaw Multilingual Toxic Comment Classification` на `KAGGLE.COM`.  
 Результат участия в данном соревновании: 669-ое место.  
 Применялось: BERT, RoBERTa, Distilbert.
